@@ -1,5 +1,6 @@
-second commit
-n new branch§:x
+on master 
+
+ new branch§:x
 
 s
 branch
